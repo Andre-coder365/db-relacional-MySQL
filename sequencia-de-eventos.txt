@@ -1,0 +1,25 @@
+Sequência de eventos nos estudos
+
+1 - Criação do Schema WM (criarSchema.sql)
+2 - Criação da tabela Estados (criarTabelaEstados.sql)
+3 - Inserção dos estados (inserirEstados1.sql)
+4 - Inserir estados 2 (inserirEstados2.sql)
+5 - Consultas com SELECT (consultarEstados.sql)
+6 - Update (atualizarEstados.sql) e explicação do uso do comando "Where"
+7 - Inserir dois estados fictícios com id informada (inserirNovosEstados.sql)
+8 - Excluir estados com o comando delete e reforço do uso do "Where" (excluirEstados.sql)
+* nota - no Workbench, uma cláusula de segurança pode impedir um uso indesejado
+do comando Delete sem o uso do "Where" (Safe update mode)
+9 - Consulta com agregação (consultarComAgregação.sql) - Consulta de múltiplas linhas
+(ou múltiplas tuplas)
+10 - Criação da tablela "cidades" usando uma chave estrangeira (criarTabelaCidades.sql)
+11 - Inserindo cidades na tabela "cidades" e vinculando aos estados (inserirCidades.sql)
+12 - Consultar múltiplas tabelas - consultas com "join" (consultarComJoin.sql)
+13 - Tipos de joins (consultarComJoins-2.sql)
+Inner join = A intersecção de "A" e "B" é o resultado (relação de chave primária + chave estrangeira)
+outer join = Operação de "A" - "B" e "B" - "A" (o inverso do inner, o que está "fora" da intersecção
+entre as duas tabelas)
+left join = o que o "inner" traz, mais o lado esquerdo da relação.
+
+Nota1 - para comentar uma linha, basta selecionar e clicar control + barra (windows)
+ou digitar 2 hífens antes da linha
