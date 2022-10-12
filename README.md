@@ -6,7 +6,7 @@ Nesse módulo do curso foi feita uma apresentação concisa, mas bem completa do
 Durante os estudos, eu
 - [x] criei um Schema com suas tabelas
 - [x] executei operações de consulta,
-- [x] criei relacionamento,
+- [x] criei relacionamentos,
 - [x] executei comandos de update, insert, delete, joins.
 
 Usei o MySQL Server para o serviço de banco de dados e o Workbench para visualização e também alguns comandos.
