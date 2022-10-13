@@ -2,7 +2,9 @@
 -- nota - Esse arquivo (apenas esse) foi fornecido pelo professor Leonardo de Moura Leitão, da plataforma Udemy
 -- curso Java 2022 COMPLETO
 -- contém os nomes de alguns estados para serem adicionados na tabela estados, que é parte do curso
--- incluído aqui para demonstrar o aproveitamento das explicações dadas no curso
+-- objetivando agilizar uma digitação que seria mais demorada 
+-- esse arquivo foi incluído aqui para demonstrar o aproveitamento das explicações dadas no curso
+-- na sequência de eventos,
 -- bem como seu uso prático
 
 

@@ -1,3 +1,8 @@
+-- essa tabela foi criada pare demonstrar alguns tipos de relacionamento
+--relação com a tabela Estados = 1 para muitos (1 estado para muitas cidades)
+-- relação com a tabela prefeitos = 1 para 1 (1 prefeito para uma cidade)
+
+
 CREATE TABLE IF NOT EXISTS cidades (
     id INT UNSIGNED NOT NULL AUTO_INCREMENT,
     NOME VARCHAR(255) NOT NULL,

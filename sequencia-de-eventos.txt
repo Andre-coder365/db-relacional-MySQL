@@ -20,6 +20,8 @@ Inner join = A intersecção de "A" e "B" é o resultado (relação de chave pri
 outer join = Operação de "A" - "B" e "B" - "A" (o inverso do inner, o que está "fora" da intersecção
 entre as duas tabelas)
 left join = o que o "inner" traz, mais o lado esquerdo da relação.
+14 - criação da tabela prefeitos (criarTabelaPrefeitos.sql)
+15 - popular a tabela prefeitos (inserirPrefeitos.sql)
 
 Nota1 - para comentar uma linha, basta selecionar e clicar control + barra (windows)
 ou digitar 2 hífens antes da linha
