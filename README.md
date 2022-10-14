@@ -8,8 +8,11 @@ Durante os estudos, eu
 - [x] executei operações de consulta,
 - [x] criei relacionamentos,
 - [x] executei comandos de update, insert, delete, joins.
+- [x] simulação de consulta "full join" no MySQL
 
 Usei o MySQL Server para o serviço de banco de dados e o Workbench para visualização e também alguns comandos.
 Fiz os exercícios (e arquivos .sql) com o VS Code e o plugin vs-code database para codar e rodar os comandos SQL.
 
 Associei esse aprendizado com as informações da disciplina Modelagem de Dados que estou estudando esse período na graduação Ciência da Computação. Tenho por objetivo praticar mais a partir desse começo para consolidar o conhecimento.
+
+O arquivo [sequencia-de-eventos.md](./sequencia-de-eventos.md) apresenta a sequência em que os exercícios foram feitos, bem como a ordem de codagem dos arquivos
