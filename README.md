@@ -8,7 +8,7 @@ Durante os estudos, eu
 - [x] executei operações de consulta,
 - [x] criei relacionamentos,
 - [x] executei comandos de update, insert, delete, joins.
-- [x] simulação de consulta "full join" no MySQL
+- [x] simulei uma consulta "full join" no MySQL usando o "union"
 
 Usei o MySQL Server para o serviço de banco de dados e o Workbench para visualização e também alguns comandos.
 Fiz os exercícios (e arquivos .sql) com o VS Code e o plugin vs-code database para codar e rodar os comandos SQL.
