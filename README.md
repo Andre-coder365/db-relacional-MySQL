@@ -16,3 +16,7 @@ Fiz os exercícios (e arquivos .sql) com o VS Code e o plugin vs-code database p
 Associei esse aprendizado com as informações da disciplina Modelagem de Dados que estou estudando esse período na graduação Ciência da Computação. Tenho por objetivo praticar mais a partir desse começo para consolidar o conhecimento.
 
 O arquivo [sequencia-de-eventos.md](./sequencia-de-eventos.md) apresenta a sequência em que os exercícios foram feitos, bem como a ordem de codagem dos arquivos
+
+Visualização no Workbench:
+
+![](workbench.jpg)
