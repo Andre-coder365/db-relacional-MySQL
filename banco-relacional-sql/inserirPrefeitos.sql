@@ -10,5 +10,10 @@ INSERT INTO prefeitos (nome, cidade_id) VALUES
     INSERT INTO prefeitos (nome, cidade_id) VALUES
     ('Rafael Greca', null);
 
+
+
+
+-- a inserção abaixo (Rodrigo Pinheiro) é para exemplificar que dará um erro de entrada duplicada
+--(chave cidade_id é chave única)
 INSERT INTO prefeitos (nome, cidade_id) VALUES
     ('Rodrigo Pinheiro', 3);
