@@ -37,7 +37,11 @@ left join = o que o "inner" traz, mais o lado esquerdo da relação.
 
 16 - explorando os tipos de Joins [(consultarComJoins-2.sql)](./banco-relacional-sql/consultarComJoins-2.sql)
 
-17 - 
+17 - criar tabela Empresa - para exemplificar a relação muitos para muitos entre empresas e cidades  [(criarTabelaEmpresa.sql)](./banco-relacional-sql/criarTabelaEmpresa.sql)
+
+18 - inserção de empresas [(inserirEmpresas.sql)](./banco-relacional-sql/inserirEmpresas.sql)
+
+19 - Consultar Empresas [(consultarEmpresas.sql)](./banco-relacional-sql/consultarEmpresas.sql)
 
 Nota1 - para comentar uma linha, basta selecionar e clicar control + barra (windows)
 ou digitar 2 hífens antes da linha

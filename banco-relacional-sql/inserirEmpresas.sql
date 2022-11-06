@@ -1,5 +1,5 @@
 
-
+--comando Alter Table - modifica o tipo de um campo de uma tabela
     ALTER TABLE empresas MODIFY cnpj VARCHAR(14);
 
     INSERT INTO empresas (nome, cnpj) VALUES

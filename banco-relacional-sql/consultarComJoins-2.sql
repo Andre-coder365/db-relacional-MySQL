@@ -10,13 +10,22 @@ select * from cidades;
 -- o "right loin" (ou"right outer join) traz o resultado do inner join mais o lado direito da relação.
 -- full join - não é suportado pelo MySQL, mas é suportado por outros bancos
 -- o full join seria a união de "A" e "B", ou seja, tudo o que tem em "A", tudo o que tem em "B" e mais a intersecção.
+
+--nessa consulta (cidades c e inner join prefeitos p) ele trará somente as cidades e prefeitos que estão relacionados
+--aqui ele não vai trazer as cidades que não tem relação com nenhum prefeito, nem vai trazer os prefeitos que não tem relação com nenhuma cidade 
 select * from cidades c inner join prefeitos p on c.id = p.cidade_id;
--- cidades c left join prefeitos - ele trará todas as cidades (left)
+
+
+-- cidades c left join prefeitos - ele trará todas as cidades (left), mesmo as que não estão relacionadas a nenhum prefeito
+-- ele trará o inner e o lado left (mesmo que não haja nenhum prefeito associado)
 select * from cidades c left join prefeitos p on c.id = p.cidade_id;
 -- left outer join = a mesma coisa que left join 
 select * from cidades c left outer join prefeitos p on c.id = p.cidade_id;
+
 --cidades c right join prefeitos = virão todos os prefeitos e as cidades que tiverem relação
 select * from cidades c right join prefeitos p on c.id = p.cidade_id;
+
+
 -- select * from cidades c full join prefeitos p on c.id = p.cidade_id;
 -- linha acima (full join) está comentada porque o MySQLnão suporta esse comando,
 -- mas alguns outros bancos suportam
