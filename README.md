@@ -1,9 +1,10 @@
 ![](db.jpg)
 
 
-#  Módulo de SQL do curso Java 2022 completo (plataforma Udemy)
+#  Módulo de SQL do curso [Java 2022 completo](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) (plataforma [Udemy](https://www.udemy.com/))
 Nesse módulo do curso foi feita uma apresentação concisa, mas bem completa dos fundamentos de um **Banco de Dados relacional**, com apresentação de conceitos como entidade/relacionamento e operações de CRUD.
 Durante os estudos, eu
+
 - [x] criei um Schema com suas tabelas
 - [x] executei operações de consulta,
 - [x] criei relacionamentos,
