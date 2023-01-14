@@ -18,6 +18,6 @@ Associei esse aprendizado com as informações da disciplina Modelagem de Dados 
 
 O arquivo [sequencia-de-eventos.md](./sequencia-de-eventos.md) apresenta a sequência em que os exercícios foram feitos, bem como a ordem de codagem dos arquivos
 
-Visualização no navigator do Workbench:
+Visualização no painel SCHEMAS do Workbench:
 
 ![](workbench.jpg)
