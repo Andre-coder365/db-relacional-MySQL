@@ -1,4 +1,4 @@
-![](db.jpg)
+![](diagrama-er.jpg)
 
 
 #  Módulo de SQL do curso [Java 2022 completo](https://www.udemy.com/course/fundamentos-de-programacao-com-java/) (plataforma [Udemy](https://www.udemy.com/course/fundamentos-de-programacao-com-java/))
