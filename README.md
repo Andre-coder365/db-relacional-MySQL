@@ -12,9 +12,9 @@ Durante os estudos, eu
 - [x] simulei uma consulta "full join" no MySQL usando o "union"
 
 Usei o MySQL Server para o serviço de banco de dados e o Workbench para visualização e também alguns comandos.
-Fiz os exercícios (e arquivos .sql) com o VS Code e o plugin vs-code database para codar e rodar os comandos SQL.
+Fiz os exercícios no VS Code e usei o plugin vs-code database para codar e rodar os comandos SQL.
 
-Associei esse aprendizado com as informações da disciplina Modelagem de Dados que estou estudando esse período na graduação Ciência da Computação. Tenho por objetivo praticar mais a partir desse começo para consolidar o conhecimento.
+Associei esse aprendizado com as informações da disciplina Modelagem de Dados que estudei em 2022  na graduação em Ciências da Computação.  A partir desse começo tenho praticado em base regular a linguagem SQL e a modelagem de dados para consolidar o conhecimento.
 
 Nos exercícios, não foi exigido um relacionamento obrigatório da tabela prefeitos com a tabela cidades, e também não foi obrigatório da tabela cidades com a tabela prefeitos, conforme DER.
 
